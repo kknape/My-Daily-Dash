@@ -1,0 +1,126 @@
+#add-task {
+    margin-top: .5%;
+}
+
+#my-board {
+    text-align: center;
+}
+
+.modal-window {
+    padding: 20px;
+}
+
+/* icon for closing opening message window */
+#alert_close{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+#ron-swanson {
+    padding-top: .3%;
+}
+
+#quote-of-the-day {
+    padding-top: 4%;
+    font-style: italic;
+    font-size: larger;
+}
+
+#taskBtn {
+    margin-top: 20px;
+}
+
+.done{
+    color: teal;
+    cursor: pointer;
+}
+
+.delete{
+    color: red;
+    cursor: pointer;
+}
+.welcome-message {
+    text-align: center;
+    font-size: 3vw;
+}
+.welcome-subHeader{
+    text-align: center;
+    font-size: 24px;
+}
+
+#completed-head {
+    text-align: center;
+}
+
+.min-height {
+    min-height: 200px;
+}
+
+#line-one {
+    padding-bottom: 2%;
+}
+
+/*START styles for congratulations message */
+
+.ui-dialog {
+    width: auto !important;
+    height: auto !important;
+    background-color: #00897b !important;
+    font-size: 18pt;
+    border: 5px solid #ee6e73 !important;
+}
+ui-dialog-titlebar {
+    background-color: white !important;
+} 
+ui-dialog-title {
+    align-content: center !important;
+}
+
+ui-dialog-content {
+    color: white !important;
+}
+
+#congratHeader {
+font-size: 32px !important;
+margin: 0px 5px 5px 15px !important;
+color: white !important;
+}
+
+.congratMsg {
+ margin: 35px 5px 5px 5px;
+ color: white !important;
+ font-size: 24pt;
+}
+
+#apiMsg {
+    margin: 15px 5px 5px 5px;
+    color: white !important;
+    font-family: 'Kanit', sans-serif;
+    font-size: 28pt;
+   }
+/*END styles for congratulations message */
+
+
+#completed-header {
+    text-align: center;
+    font-size: 16pt;
+}
+
+.done {
+    margin-left: 15px;
+    border: 1px solid teal;
+    border-radius: 50%;
+}
+.delete {
+    margin-left: 15px;
+    border: 1px solid red;
+    border-radius: 50%;
+}
+
+#googleBtn {
+    width: 25%;
+}
